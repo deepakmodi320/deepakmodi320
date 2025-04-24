@@ -9,6 +9,4 @@
 - **Sales Performance Dashboard** – Uncovered insights on sales trends and customer behavior using Power BI  
 - **Optimizing ROI on Digital Marketing Campaigns** – Analyzed engagement vs ticket purchases to improve ad performance  
 
-📈 Passionate about using insights to drive business decisions in real-world scenarios
-
 📫 Reach me: deepakmodi320@gmail.com
