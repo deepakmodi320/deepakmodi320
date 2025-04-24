@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm Deepak Modi
 
-<!--
-**deepakmodi320/deepakmodi320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Analyst with 2+ years of experience in tech  
+🎓 Pursuing an MBA in Data Science & Analytics  
+🔧 Skilled in SQL • Power BI • Python • Excel  
 
-Here are some ideas to get you started:
+💡 I enjoy solving real-world problems using data  
+📊 Projects include:
+- **Sales Performance Dashboard** – Uncovered insights on sales trends and customer behavior using Power BI  
+- **Optimizing ROI on Digital Marketing Campaigns** – Analyzed engagement vs ticket purchases to improve ad performance  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Passionate about using insights to drive business decisions in real-world scenarios
+
+📫 Reach me: deepakmodi320@gmail.com
